@@ -1,0 +1,37 @@
+* {
+    margin: 0 3% 2px 3%;
+    padding: 0 0 0 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    background-color: lightgreen;
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgreen;
+}
+
+h3 {
+    font-size: 16px;
+    background-color: lightskyblue;
+}
+
+h4,
+h5 {
+    font-size: 14px;
+    background-color: yellow;
+}
+
+li {
+    font-size: 12px;
+    color: blue;
+    padding-left: 32px;
+    margin-bottom: 0;
+    background-color: lightblue;
+
+}
