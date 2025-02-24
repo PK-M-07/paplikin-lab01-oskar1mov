@@ -35,3 +35,45 @@ li {
     background-color: lightblue;
 
 }
+
+li span {
+    display: block;
+    margin-left: -3%;
+    color: greenyellow
+}
+
+p {
+    font-size: 12px;
+    background-color: lightsteelblue;
+    text-align: justify;
+    padding: 10px;
+}
+
+p em {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.SEC_HEADER {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#sec1 {
+    margin-top: 5px;
+}
+
+#sec2 {
+
+    margin-top: 15px;
+}
+
+
+#sec3 {
+
+    margin-top: 25px;
+}
+
+.IMAGE_F {
+    height: max(8vh, 40px);
+}
